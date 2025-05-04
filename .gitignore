@@ -1,0 +1,25 @@
+# Scala and sbt related
+target/
+project/target/
+project/project/
+.bloop/
+.bsp/
+.metals/
+
+# IDEs
+.idea/
+.vscode/
+
+# Log and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build tools generated files (e.g., IntelliJ, Maven)
+*.iml
+*.jar
+*.class
